@@ -1,0 +1,12 @@
+C:/Users/rodri/STM32CubeIDE/workspace_2.2.0/laboratorio8/Core/Src/main.c:77:13:text_centered	1
+C:/Users/rodri/STM32CubeIDE/workspace_2.2.0/laboratorio8/Core/Src/main.c:84:13:plot_sample	1
+C:/Users/rodri/STM32CubeIDE/workspace_2.2.0/laboratorio8/Core/Src/main.c:92:13:draw_grid	3
+C:/Users/rodri/STM32CubeIDE/workspace_2.2.0/laboratorio8/Core/Src/main.c:101:13:Draw_Thermometer	8
+C:/Users/rodri/STM32CubeIDE/workspace_2.2.0/laboratorio8/Core/Src/main.c:167:13:Draw_EOG	2
+C:/Users/rodri/STM32CubeIDE/workspace_2.2.0/laboratorio8/Core/Src/main.c:214:13:Draw_HeartRate	6
+C:/Users/rodri/STM32CubeIDE/workspace_2.2.0/laboratorio8/Core/Src/main.c:259:5:main	1
+C:/Users/rodri/STM32CubeIDE/workspace_2.2.0/laboratorio8/Core/Src/main.c:317:6:SystemClock_Config	3
+C:/Users/rodri/STM32CubeIDE/workspace_2.2.0/laboratorio8/Core/Src/main.c:365:13:MX_SPI1_Init	2
+C:/Users/rodri/STM32CubeIDE/workspace_2.2.0/laboratorio8/Core/Src/main.c:403:13:MX_USART2_UART_Init	2
+C:/Users/rodri/STM32CubeIDE/workspace_2.2.0/laboratorio8/Core/Src/main.c:436:13:MX_GPIO_Init	1
+C:/Users/rodri/STM32CubeIDE/workspace_2.2.0/laboratorio8/Core/Src/main.c:492:6:Error_Handler	1
